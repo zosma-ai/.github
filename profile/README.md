@@ -2,4 +2,4 @@
 Distributed GenAI Service Hosting Network
 
 ## Overview
-![Architecture](./overview.drawio.png)
+![Architecture](https://github.com/zosma-ai/.github/blob/main/profile/overview.drawio.png)
