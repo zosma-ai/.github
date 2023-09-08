@@ -44,7 +44,6 @@ https://arxiv.org/abs/1706.03762
 ### High-Resolution Image Synthesis with Latent Diffusion Models
 https://arxiv.org/abs/2112.10752
 
-
 ### Reproducible scaling laws for contrastive language-image learning
 https://arxiv.org/abs/2212.07143
 ### Sparks of Artificial General Intelligence: Early experiments with GPT-4
@@ -54,6 +53,14 @@ https://arxiv.org/pdf/2303.12712.pdf
 https://arxiv.org/pdf/2305.02301.pdf
 ### Emergent autonomous scientific research capabilities of large language models
 https://arxiv.org/pdf/2304.05332.pdf
+
+
+### Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+https://arxiv.org/pdf/2201.11903.pdf
+
+### Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+https://arxiv.org/pdf/2305.10601.pdf
+
 ## AI Frameworks
 ### PyTorch
 https://pytorch.org/docs/stable/index.html
@@ -63,7 +70,8 @@ https://pytorch.org/docs/stable/index.html
 https://github.com/facebookresearch/xformers
 ## Backend Frameworks
 
-### Simple, reliable & efficient distributed task queue in Go
+### asynq
+Simple, reliable & efficient distributed task queue in Go  
 https://github.com/hibiken/asynq
 
 ### Echo Project
@@ -77,14 +85,14 @@ https://docs.docker.com/compose/
 
 ## Frontend frameworks
 ### ReactJS 
-For web applications
+For web applications  
 https://legacy.reactjs.org/
 ### Flutter
-For mobile applications
+For mobile applications  
 https://docs.flutter.dev/
 
 ### Discord Bot
-For discord bot/app
+For discord bot/app  
 https://discord.com/developers/docs/intro
 
 
